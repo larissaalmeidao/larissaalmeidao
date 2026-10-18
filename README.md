@@ -25,7 +25,7 @@ Projeto acadêmico desenvolvido em equipe, com foco na aplicação prática de c
 
 🔗 **[Acessar repositório](https://github.com/2026-2-NCC5/Projeto1)**
 
-### 🎓 [SISA — Sistema Inteligente de Suporte Acadêmico](https://github.com/larissaalmeidao/SISA)
+### 🎓 [SISA — Sistema Inteligente do Sucesso Alvarista](https://github.com/larissaalmeidao/SISA)
 
 Aplicativo acadêmico desenvolvido em equipe para facilitar o acesso a informações e serviços educacionais, integrando desenvolvimento mobile, banco de dados e inteligência artificial.
 
