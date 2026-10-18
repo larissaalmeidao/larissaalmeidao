@@ -17,21 +17,22 @@
 
 **Ferramentas:** Git, GitHub, VS Code e Azure
 
-## 📂 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### 🐾 HappyPets
-Sistema web para gerenciamento de agendamentos de serviços em petshop, com cadastro e autenticação de usuários.
+### 📊 [Projeto1 — 2026-2-NCC5](https://github.com/2026-2-NCC5/Projeto1)
 
-**Tecnologias:** JavaScript, Node.js, Express e MySQL.
+Projeto acadêmico desenvolvido em equipe, com foco na aplicação prática de conhecimentos em desenvolvimento de software, organização de soluções e trabalho colaborativo.
 
-[Ver projeto](https://github.com/larissaalmeidao/HappyPets)
+🔗 **[Acessar repositório](https://github.com/2026-2-NCC5/Projeto1)**
 
-### 💻 CadastroQuiosque
-Aplicação CRUD desenvolvida em Java com Spring MVC.
+### 🎓 [SISA — Sistema Inteligente de Suporte Acadêmico](https://github.com/larissaalmeidao/SISA)
 
-**Tecnologias:** Java e Spring MVC.
+Aplicativo acadêmico desenvolvido em equipe para facilitar o acesso a informações e serviços educacionais, integrando desenvolvimento mobile, banco de dados e inteligência artificial.
 
-[Ver projeto](https://github.com/larissaalmeidao/CadastroQuiosque)
+**Tecnologias:** React Native, Expo, TypeScript, Python, Supabase e IA Generativa.
+
+🔗 **[Acessar repositório](https://github.com/larissaalmeidao/SISA)**
+
 
 ## 🏅 Certificações
 
